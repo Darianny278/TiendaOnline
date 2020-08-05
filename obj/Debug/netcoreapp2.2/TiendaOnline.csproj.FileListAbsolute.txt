@@ -9,7 +9,6 @@ C:\Users\daria\source\repos\TiendaOnline\bin\Debug\netcoreapp2.2\TiendaOnline.dl
 C:\Users\daria\source\repos\TiendaOnline\bin\Debug\netcoreapp2.2\TiendaOnline.pdb
 C:\Users\daria\source\repos\TiendaOnline\bin\Debug\netcoreapp2.2\TiendaOnline.Views.dll
 C:\Users\daria\source\repos\TiendaOnline\bin\Debug\netcoreapp2.2\TiendaOnline.Views.pdb
-C:\Users\daria\source\repos\TiendaOnline\obj\Debug\netcoreapp2.2\TiendaOnline.csproj.CoreCompileInputs.cache
 C:\Users\daria\source\repos\TiendaOnline\obj\Debug\netcoreapp2.2\TiendaOnline.RazorAssemblyInfo.cache
 C:\Users\daria\source\repos\TiendaOnline\obj\Debug\netcoreapp2.2\TiendaOnline.RazorAssemblyInfo.cs
 C:\Users\daria\source\repos\TiendaOnline\obj\Debug\netcoreapp2.2\TiendaOnline.AssemblyInfoInputs.cache
